@@ -32,6 +32,17 @@ This project delivers an automated, end-to-end data analytics pipeline (Python +
 * **High-Risk Cohort:** Patients with $\ge 2$ inpatient visits in the preceding year represent the highest-risk group, making them prime candidates for automated post-discharge outreach programs.
 
 ---
+## 🕹️ How to Run Locally
+
+1. **Clone this repository:**
+   ```bash
+   git clone [https://github.com/ifteiruddinkhan/Healthcare-Patient-Readmission-Analysis](https://github.com/ifteiruddinkhan/Healthcare-Patient-Readmission-Analysis)Run the scripts in the python and sql directory to create the required views.
+
+## 1.Explore the Data Model:
+
+• Open the Power BI Dashboard:
+
+Open [Hospital Readmission Dashboard.pbix](https://github.com/ifteiruddinkhan/Healthcare-Patient-Readmission-Analysis/blob/main/Hospital%20Readmission%20Dashboard.pbix) in Power BI Desktop.
 
 ## 🏗 Data Pipeline Architecture
 
